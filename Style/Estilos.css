@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.icono {
+    height: 80px;
+    border-radius: 50%;
+}
+
+.perfil {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+#icono-nombre {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    float: left;
+}
+
+.nav {
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+span {
+    font-weight: bold;
+}
+
+.personal {
+    background-color: rgb(85, 226, 231);
+}
+
+.experiencia {
+    background-color: rgb(181, 231, 243);
+}
+
+.habilidades {
+    background-color: lightskyblue;
+}
+
